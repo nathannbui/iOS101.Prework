@@ -26,7 +26,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/81447dac0b324351b471c4b175d44883">
-      <p>Simulator - iPhone 16 Pro - 21 April 2025 - Watch Video</p>
+      <p> iOS 101 - Pre-Work Submission </p>
     </a>
     <a href="https://www.loom.com/share/81447dac0b324351b471c4b175d44883">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/81447dac0b324351b471c4b175d44883-f0369dec24d1ff08-full-play.gif">
