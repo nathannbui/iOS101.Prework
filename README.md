@@ -10,7 +10,7 @@ Time spent: 1 hour
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button ✅
+- [ ] Users see a screen with three labels and a button ✅
 - [ ] Tapping the button changes the screen color to a random color ✅
 
 ## Some ideas to improve the app:
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 - Font Switcher: Add a button or toggle to switch between different font styles (such as: bold, italic, cursive) for the labels.
 
-- Color Visability: When the text is at a fixed color, it becomes hard to see depending on the color change. (Light color font on a light color makes the text hard to see). Change so that the text color changes based on the shade of the color that it is changed too.
+- Color Visibility: When the text is at a fixed color, it becomes hard to see depending on the color change. (Light color font on a light color makes the text hard to see). Change so that the text color changes based on the shade of the color that it is changed to.
 
 - Button Vibration Feedback: Make the phone vibrate lightly when the button is tapped.
 
@@ -42,9 +42,9 @@ Favorite Apps & its Features:
 1. Pinterest
 - Ability to visually plan out goals and inspiration
 
-- Easy-to-use interface for saving and organizing ideas into seperate groups
+- Easy-to-use interface for saving and organizing ideas into separate groups
 
-- Infinite pictures/post with personalized recommendations
+- Infinite pictures/posts with personalized recommendations
 
 2. Notion
 
@@ -68,7 +68,7 @@ Favorite Apps & its Features:
 
 - Simple video editing and effects for content creation
 
-- Makes it fun to share videos with friends/family, when shared for a long period of time, you can build a streak based of sending videos.
+- It makes it fun to share videos with friends/family; when shared for a long time, you can build a streak based on sending videos.
 
 5. Spotify
 
@@ -78,14 +78,14 @@ Favorite Apps & its Features:
 
 - Creating/joining a Spotify Jam, you can join your friends " Spotify Jam" and queue music from your account/device.
 
-- See what your friends are listening too and get to listen to their personalized playlist
+- See what your friends are listening to and get to listen to their personalized playlist
   
 
 ## App-Idea
 
 I want to create an app inspired by Pinterest that helps users visually plan and organize their personal bucket list goals. Whether it's travel destinations, fitness achievements, creative projects, or life milestones, users can "pin" images, quotes, or links that represent each goal. The app will also allow users to add notes, track their mood, and create savings plans for money-related goals.
 
-What I invision is a user experience will focus on a clean, minimal design with drag-and-drop functionality to make organizing goals intuitive and inspiring. As someone with a long list of personal bucket list items, I’ve found it hard to keep everything in one place; especially as a visual learner. This app aims to help people like me stay motivated and inspired while turning dreams into actionable plans!
+What I envision is a user experience that focuses on a clean, minimal design with drag-and-drop functionality to make organizing goals intuitive and inspiring. As someone with a long list of personal bucket list items, I’ve found it hard to keep everything in one place, especially as a visual learner. This app aims to help people like me stay motivated and inspired while turning dreams into actionable plans!
 
 ## Notes
 
